@@ -47,4 +47,4 @@ A tight, senior team that covers the full delivery stack — from database schem
 
 ---
 
-📧 [tim@bifrostsolutions.com](mailto:tim@bifrostsolutions.com) &nbsp;·&nbsp; 🌐 [bifrostsolutions.com](https://bifrostsolutions.com)
+📧 [info@bifrostsolutions.com](mailto:info@bifrostsolutions.com) &nbsp;·&nbsp; 🌐 [bifrostsolutions.com](https://bifrostsolutions.com)
