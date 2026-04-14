@@ -4,9 +4,23 @@ We design and deliver cloud solutions — end-to-end, no hand-offs, no silos. St
 
 ---
 
+## Data Engineering, Data Science & Analytics
+
+This is where we go deep. From raw ingestion to predictive modelling, we cover the full data stack — and we know what the data is actually telling you, not just how to move it around.
+
+- **Snowflake** — hands-on expertise dating back to the platform's earliest days; among the first practitioners working with Snowflake at scale
+- **SQL** — production-grade T-SQL, Snowflake SQL, query optimisation, schema design, complex stored procedures and views. SQL is a core strength, not an afterthought.
+- **Data science** — statistical analysis, predictive modelling, data exploration and visualisation
+- **ETL/ELT pipelines** — Azure Data Factory, Python, Databricks, SSIS — any source, any destination
+- **Azure Data Lake, Synapse Analytics** — cloud-native data platform architecture and delivery
+- **Power BI & paginated reporting** — semantic models, report development, workspace provisioning, data lineage
+- **Python** — data engineering, ETL pipelines, scripted analysis, automation and tooling
+
+---
+
 ## AI & Intelligent Automation
 
-This is how we work — not a separate service line. AI is embedded into every engagement, speeding delivery, broadening analysis, and surfacing opportunities that would otherwise stay hidden.
+AI is embedded into every engagement — not a separate service line. It speeds delivery, broadens analysis, and surfaces opportunities that would otherwise stay hidden.
 
 - **AI integration consulting** — identifying high-value automation opportunities and building practical AI solutions directly into business workflows
 - **Custom AI-assisted applications** — integrating Copilot, OpenAI APIs, and Azure AI services into real products that do real things
@@ -15,37 +29,13 @@ This is how we work — not a separate service line. AI is embedded into every e
 
 ---
 
-## Cloud Modernisation & Migration
+## Application Development
 
-We migrate from anywhere to anywhere. Source system, destination platform, and data format don't constrain us.
-
-- Legacy on-premises to cloud — architecture, planning, and full end-to-end delivery
-- Any source, any destination — SQL Server, Oracle, Snowflake, Azure SQL, Dataverse, data lakes, flat files, SaaS platforms
-- ETL/ELT pipeline design and delivery — Azure Data Factory, Python pipelines, Databricks, SSIS
-- Complex schema mapping, dependency analysis, and multi-system data architecture
-- ISV managed solution development — installable, multi-tenant applications built for scale
-
----
-
-## Data Engineering & Analytics
-
-Chris brings data science depth alongside engineering delivery — this isn't just reporting, it's knowing what the data is actually telling you.
-
-- **Snowflake** — deep, hands-on expertise dating back to the platform's earliest days; one of the earliest practitioners in the ecosystem
-- **SQL** — production-grade T-SQL, query optimisation, schema design, complex stored procedures and views across SQL Server, Azure SQL, Snowflake, and beyond. SQL is a core strength, not an afterthought.
-- **Data science** — statistical analysis, predictive modelling, data exploration and visualisation
-- **Power BI & paginated reporting** — semantic models, report development, workspace provisioning, data lineage
-- **Azure Data Lake, Azure Data Factory, Synapse Analytics** — cloud-native data platform architecture and delivery
-- **Python** — data engineering, ETL pipelines, scripted analysis, automation, and tooling
-
----
-
-## Cloud Infrastructure
-
-- **Microsoft Azure** — App Service, Azure SQL, Key Vault, Entra ID, Data Factory, Data Lake, Synapse
-- **Infrastructure as code** — Bicep, ARM templates
-- **CI/CD** — GitHub Actions with OIDC federated deployment
-- Multi-cloud and hybrid architecture — we follow the right tool, not a single vendor
+- **C# / .NET** — Dataverse plugins, ASP.NET MVC, Blazor WebAssembly, OData API design, JWT / Entra ID authentication
+- **Python** — data engineering, ETL, scripted tooling, analysis pipelines
+- **SQL** — T-SQL, Snowflake SQL, Azure SQL, query optimisation, schema design, migration scripting
+- **PowerShell** — deployment automation, zero-touch release pipelines across Azure, Dataverse, and reporting infrastructure
+- **JavaScript / HTML** — web resources, browser-side OData, iframe integration patterns
 
 ---
 
@@ -57,13 +47,23 @@ Chris brings data science depth alongside engineering delivery — this isn't ju
 
 ---
 
-## Application Development
+## Azure Infrastructure
 
-- **C# / .NET** — Dataverse plugins, ASP.NET MVC, Blazor WebAssembly, OData API design, JWT / Entra ID authentication
-- **Python** — data engineering, ETL, scripted tooling, analysis pipelines
-- **SQL** — T-SQL, Azure SQL, Snowflake SQL, query optimisation, schema design, migration scripting
-- **PowerShell** — deployment automation, zero-touch release pipelines across Azure, Dataverse, and reporting infrastructure
-- **JavaScript / HTML** — web resources, browser-side OData, iframe integration patterns
+- App Service, Azure SQL, Key Vault, Entra ID (app registrations, managed identities, federated credentials)
+- Infrastructure as code — Bicep, ARM templates
+- GitHub Actions CI/CD with OIDC federated deployment
+- Multi-cloud and hybrid architecture — we follow the right tool, not a single vendor
+
+---
+
+## Cloud Modernisation & Migration
+
+We migrate from anywhere to anywhere. Source system, destination platform, and data format don't constrain us.
+
+- Legacy on-premises to cloud — architecture, planning, and full end-to-end delivery
+- Any source, any destination — SQL Server, Oracle, Snowflake, Azure SQL, Dataverse, data lakes, flat files, SaaS platforms
+- Complex schema mapping, dependency analysis, and multi-system data architecture
+- ISV managed solution development — installable, multi-tenant applications built for scale
 
 ---
 
