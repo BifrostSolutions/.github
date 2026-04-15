@@ -10,7 +10,7 @@ This is where we go deep. From raw ingestion to predictive modeling, we cover th
 
 - **Snowflake** — hands-on expertise dating back to the platform's earliest days; among the first practitioners working with Snowflake at scale
 - **SQL** — production-grade T-SQL, Snowflake SQL, query optimization, schema design, complex stored procedures and views. SQL is a core strength, not an afterthought.
-- **Data science** — statistical analysis, predictive modeling, data exploration and visualisation
+- **Data science** — statistical analysis, predictive modeling, data exploration and visualization
 - **ETL/ELT pipelines** — Azure Data Factory, Python, Databricks, SSIS — any source, any destination
 - **Azure Data Lake, Synapse Analytics** — cloud-native data platform architecture and delivery
 - **Power BI & paginated reporting** — semantic models, report development, workspace provisioning, data lineage
@@ -56,7 +56,7 @@ AI is embedded into every engagement — not a separate service line. It speeds 
 
 ---
 
-## Cloud modernization & Migration
+## Cloud Modernization & Migration
 
 We migrate from anywhere to anywhere. Source system, destination platform, and data format don't constrain us.
 
